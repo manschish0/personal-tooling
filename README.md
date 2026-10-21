@@ -1,6 +1,6 @@
 # Personal Tooling
 
-Small scripts, automations, and customizations I use to make life a little easier.
+Small scripts, automations, and customizations I use to make life a little *fun* and easier.
 
 ## Contents
 
